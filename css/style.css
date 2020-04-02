@@ -1,0 +1,13 @@
+body { background: rgb(233, 91, 91);
+margin-left: 50px;
+margin-right: 150px;} 
+header { margin-top: 50px;}
+
+h1 { color: red;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;} 
+
+h2 { color: red;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+p { font-size: 25px; }
+
