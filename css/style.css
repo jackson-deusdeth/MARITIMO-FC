@@ -1,5 +1,6 @@
 body { background: rgb(135, 20, 243);
-background-image: url(img/ondulada.jpg);       
+    background-image: url("/img/ondulada.PNG");
+    background-repeat: repeat-y;    
 margin-left: 50px;
 margin-right: 150px;} 
 header { margin-top: 50px;}
