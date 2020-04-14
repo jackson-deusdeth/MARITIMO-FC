@@ -1,7 +1,18 @@
 body { background: rgb(135, 20, 243); 
-    background-image: url("/img/mar\ azul.PNG");  
+    background-image: url("/img/mar\ azul.PNG") ;
 margin-left: 50px;
-margin-right: 150px;} 
+margin-right: 150px;}   
+
+.square {
+    width: 300px;
+    height: 300px;
+    background-image: url("/img/mar\ azul.PNG");
+    border: solid 2px;
+    text-shadow: white 0px 0px 2px;
+    font-size: 100px;
+    background-size: 250px;
+  }
+
 header { margin-top: 50px;}
 
 
@@ -13,7 +24,7 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 
 li { color:red;}
 
-p { font-size: 25px;
+p { font-size: 35px;
 color: black; }
 
 .contato { color: black;}
