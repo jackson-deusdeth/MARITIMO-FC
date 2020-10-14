@@ -38,3 +38,15 @@ a { color: black;}
   margin-right: 50px;
   scroll-margin-right: ;
 }
+
+img,
+video, {
+  max-width: 100%;
+  height: auto;
+}
+
+<img src="logo.png class="logo">
+
+.logo {
+ width: 100px;
+}
