@@ -1,5 +1,7 @@
 body { 
+  
     background-color: black;
+    background-attachment: scroll;
 margin-left: 80px;
 margin-right: 100px;}   
 
@@ -16,15 +18,15 @@ margin-right: 100px;}
 header { margin-top: 50px;}
 
 
-h1 { color: red;
+h1 { color: rgb(34, 11, 168);
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;} 
 
-h2 { color: red;
+h2 { color:red;
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
 
 
 
-li { color:red;}
+li { color:white;}
 
 p { font-size: 35px;
 color: rgb(250, 248, 248); }
@@ -72,4 +74,10 @@ article ul li{
 footer {
   margin-left: 80px;
 margin-right: 100px;}  
+}
+
+.h2 {
+  background-color: red;
+  font-style: italic;
+  
 }
